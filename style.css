@@ -1,0 +1,10 @@
+body {
+    margin: 295px;
+}
+.content { 
+    text-align: center;
+    border: 1px;
+    border-style: solid;
+    padding: 100px;
+    margin-top: 10%;
+}
